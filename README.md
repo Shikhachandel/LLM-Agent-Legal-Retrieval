@@ -1,4 +1,4 @@
-LM Agentic Legal Retrieval
+LLM Agentic Legal Retrieval
 This project implements an LLM-based system for legal document retrieval, combining large language models with information retrieval techniques to efficiently locate relevant legal content.
 
 *Requirements
