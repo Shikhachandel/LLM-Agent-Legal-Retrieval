@@ -11,8 +11,9 @@ mistral-7b-instruct-q4-k-m-gguf/gguf/default/1
 3. Setup Instructions
 4. Clone the repository.
 5. Download the required GGUF model from Hugging Face.
-6. Place the model in your local project directory.
-7. Update all data paths in the code to match the locations of your downloaded files and datasets.
+6. OR use the zip file directly and follow further.
+7. Place the model in your local project directory.
+8. Update all data paths in the code to match the locations of your downloaded files and datasets.
 
 Notes
 -Ensure the model path in the code matches the location where you stored the GGUF model.
