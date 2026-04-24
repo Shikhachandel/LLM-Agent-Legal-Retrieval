@@ -22,20 +22,6 @@ c.Click Download and place it in your project folder.
 
 6. Download the file court_considerations.csv and laws_de.csv from https://www.kaggle.com/competitions/llm-agentic-legal-information-retrieval/data and add them to your repository in the data.
 
-
-
-
-
-
-
-## Model Results
-
-### sahithi_model.ipynb (Sahithi)
-Approach: Agentic retrieval using LangChain + FAISS semantic search + GROQ LLM API
-- Precision: 0.0667
-- Recall: 0.0111
-- F1: 0.019
-
 7. Update all data paths in the code to match the locations of your downloaded files and datasets.
 
 8. Ready to run your file.
@@ -43,3 +29,13 @@ Approach: Agentic retrieval using LangChain + FAISS semantic search + GROQ LLM A
 Notes
 -Ensure the model path in the code matches the location where you stored the GGUF model.
 -Verify that all dataset and resource paths are correctly configured before execution.
+
+
+
+## Model Results
+
+### sahithi_model.ipynb
+Approach: Agentic retrieval using LangChain + FAISS semantic search + GROQ LLM API
+- Precision: 0.0667
+- Recall: 0.0111
+- F1: 0.019
