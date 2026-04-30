@@ -33,3 +33,5 @@ Approach: Agentic retrieval using LangChain + FAISS semantic search + GROQ LLM A
   2) Index files
   3) GPU to run fast
   4) val.csv and test.csv files 
+
+  As files are too big for github, kindly https://www.kaggle.com/code/shikhachandelcollege/my-model go to this model and run it using your kaggle account.
